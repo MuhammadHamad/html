@@ -1,0 +1,5 @@
+2024-09-18 18:02:38,355 - INFO - Starting email automation script
+2024-09-18 18:02:40,669 - ERROR - IMAP error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2024-09-18 18:03:42,108 - ERROR - IMAP error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2024-09-18 18:04:44,163 - ERROR - IMAP error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
+2024-09-18 18:05:46,315 - ERROR - IMAP error: b'[AUTHENTICATIONFAILED] Invalid credentials (Failure)'
